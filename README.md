@@ -1,2 +1,0 @@
-# GonnaPass
-Gonna Pass(Beta)

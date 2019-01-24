@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GonnaPass</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Định dạng mail sai</string>
+    <string name="error_invalid_password">Mật khẩu phải có ít nhất 6 kí tự</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="rePassword">Nhập xác nhận mật khẩu</string>
+    <string name="ok_mgs">OK</string>
+    <string name="error_re_password">Mật khẩu không trùng khớp</string>
+    <string name="error_invalid_address">Bạn chưa nhập địa chỉ</string>
+    <string name="error_isEmpty_password">Bạn chưa nhập mật khẩu</string>
+    <string name="error_invalid_phone">Số điện thoại không hợp lệ</string>
+    <string name="error_isEmpty_phone">Bạn chưa nhập số điện thoại</string>
+    <string name="error_isEmpty_email">Bạn chưa nhập email</string>
+    <string name="error_isEmpty_username">Bạn chưa điền họ tên người sử dụng</string>
+    <string name="fail_mgs">Đóng</string>
+    <string name="etPassword">Nhập mật khẩu</string>
+    <string name="etPhone">Nhập số điện thoại</string>
+    <string name="etEmail">Nhập email</string>
+    <string name="etUserName">Nhập họ và tên</string>
+    <string name="updatePassword">CẬP NHẬT MẬT KHẨU</string>
+    <string name="etCode">Nhập mã xác thực</string>
+    <string name="etNewPassword">Nhập mật khẩu mới</string>
+    <string name="etReNewPassword">Xác nhận mật khẩu</string>
+    <string name="err">Lỗi</string>
+    <string name="err_content_1">Email này đã được sử dụng !</string>
+    <string name="email">EMAIL</string>
+    <string name="user_name">HỌ VÀ TÊN</string>
+    <string name="phone">SĐT</string>
+    <string name="password">MẬT KHẨU</string>
+    <string name="re_password">XÁC NHẬN MẬT KHẨU</string>
+    <string name="register_btn">ĐĂNG KÝ</string>
+    <string name="next">Tiếp</string>
+</resources>

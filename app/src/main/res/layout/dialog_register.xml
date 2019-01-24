@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/msg"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:paddingLeft="@dimen/padding_update_content_left"
+        android:paddingTop="@dimen/padding_update_content_top_bot"
+        android:paddingRight="@dimen/padding_update_content_right"
+        android:paddingBottom="@dimen/padding_update_content_top_bot"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/button_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/padding_update_content"
+        android:text="@string/ok_mgs"
+        android:textColor="#136de2"
+        android:textSize="16dp" />
+</LinearLayout>
